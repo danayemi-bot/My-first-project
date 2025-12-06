@@ -1,5 +1,4 @@
 import turtle
-print("\n Artist at work, silence please\n")
 t=turtle.Turtle()
 t.pensize(10)
 t.color("blue")
